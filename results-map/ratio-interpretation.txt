@@ -1,0 +1,58 @@
+1. > OP = Better
+2. > ROTA = Better
+3. ~ ROE = sometimes higher is better
+4. < Liabilitas = Better
+5. < DTAR = Better
+6. > CR = Better
+7. ~ Investment depend on risk averse
+
+-> Profitabilitas (Operating profit, Return on total assets, Return on equity)
+-> Hutang/Liabilitas (Total liabilities)
+-> Capital structure (Debt-to-Assets ratio)
+-> Likuiditas (Current ratio)
+-> Cash flow (Investments).
+
+-- A -- Diatas rata-rata
+G = 4
+M = 2
+L = 1
+
+-- B --
+G = 2
+M = 3
+L = 2
+
+-- C --
+G = 2
+M = 3
+L = 2
+
+-- D --
+G = 2
+M = 3
+L = 2
+
+-- E --
+G = 2
+M = 2
+L = 3
+
+-- F --
+G = 2
+M = 1
+L = 4
+
+-- G --
+G = 2
+M = 4
+L = 1
+
+-- H --
+G = 4
+M = 2
+L = 1
+
+-- I --
+G = 4
+M = 1
+L = 2
