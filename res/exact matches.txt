@@ -1,0 +1,45 @@
+ATIC 2018
+W, S, P
+2, 0, 0
+
+ATIC 2020
+W, S, P
+0, 0, 0
+
+ATIC 2022
+W, S, P
+0, 0, 0
+
+ATIC Total Match: 24 + 28 + 7 (59)
+-------------
+
+DIVA 2018
+W, S, P
+6, 4, 6
+
+DIVA 2020
+W, S, P
+7, 4, 7
+
+DIVA 2022
+W, S, P
+4, 5, 3
+
+DIVA Total Match: 23 + 31 + 22 (76)
+-------------
+
+EMTK 2018
+W, S, P
+0, 0, 0
+
+EMTK 2020
+W, S, P
+0, 0, 0
+
+EMTK 2022
+W, S, P
+0, 0, 0
+
+EMTK Total Match: 1 + 2 + 27 (30)
+
+Total Exact Matches/Total Match: 48/165 (29%)

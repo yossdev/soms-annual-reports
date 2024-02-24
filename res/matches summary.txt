@@ -1,0 +1,15 @@
+UP: [A, B]
+Mean: [C, D, G, H, I]
+Low: [E, F]
+
+ATIC (A, B, I)
+Up, Mean, Low
+15, 29, 5
+
+DIVA (H)
+Up, Mean, Low
+10, 59, 7
+
+EMTK (C, D)
+Up, Mean, Low
+4, 24, 2

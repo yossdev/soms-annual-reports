@@ -1,0 +1,19 @@
+TAHN 8 0 2
+ATIC A B I
+DIVA H H H
+EMTK C D C
+KREN E H H
+MCAS H H H
+MLPT A A A
+MTDL F G G
+NFCX H H H
+PTSN A F D
+
+[0,3,6,9,12,15,18,21,24,27]
+
+Match
+Count: 12 + 12 + 20 + 6 + 7 + 23 + 24 + 7 + 22 + 3 + 27 = 163
+
+W : 
+S :
+P : 
