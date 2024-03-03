@@ -1,15 +1,17 @@
-UP: [A, B]
-Mean: [C, D, G, H, I]
+UP: [A, I]
+Mean (Cukup Baik): [C, D, [G, H, B]]
 Low: [E, F]
+
+Cukup Baik: [H, B]
 
 ATIC (A, B, I)
 Up, Mean, Low
-15, 29, 5
+[2, 6, 4], 32, 5
 
 DIVA (H)
 Up, Mean, Low
-10, 59, 7
+[1, 3, 4], 61, 7
 
 EMTK (C, D)
 Up, Mean, Low
-4, 24, 2
+2, 26, 2
